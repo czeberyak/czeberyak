@@ -1,16 +1,19 @@
-## Hi there 👋
+# Привет, я Дмитрий Чеберяк | Industrial Data Scientist 🏭📊
 
-<!--
-**czeberyak/czeberyak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Эксперт с 20-летним опытом в управлении химическим производством, трансформирующий инженерную экспертизу в цифровые решения. 
 
-Here are some ideas to get you started:
+### 🛠 Мой текущий стек
+* **Языки:** Python (Pandas, NumPy, Scikit-learn, CatBoost, XGBoost), SQL.
+* **Специализация:** Анализ временных рядов, предиктивное обслуживание (PdM), поиск аномалий в зашумленных данных.
+* **Инструменты:** Git, Bash, Linux (WSL), VS Code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Сейчас в активном изучении (Learning Path 2026)
+* **Computer Vision:** Изучаю PyTorch и OpenCV в рамках «Техношколы» WB для задач дефектоскопии на производстве.
+* **MLOps:** Осваиваю Docker и основы деплоя моделей, чтобы превращать ноутбуки в стабильные сервисы.
+
+### 🚀 Ключевые проекты
+* **[Industrial-Health-Index](ссылка_появится_позже)** — Определение индекса износа оборудования методом PCA (Unsupervised Learning).
+* **[Pismo-Deda API](https://github.com/czeberyak/pismo-deda-backend)** — Production-ready сервис на Flask с полной прослеживаемостью данных (Data Lineage).
+
+### 📫 Связь
+[Telegram: @czeberyak](https://t.me/czeberyak) | [Сетка](https://setka.ru/users/019cf691-4cce-7c42-8249-8f51340736ac)
