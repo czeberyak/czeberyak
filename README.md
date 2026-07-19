@@ -23,7 +23,7 @@
 **🔬 Ca(OH)₂ Digital Twin (DWSIM + ML Surrogate)** — *методология, in silico*
 Гибридный цифровой двойник непрерывного гашения извести: DWSIM считает строгую термодинамику (энтальпия, теплоёмкость) через Sensitivity Analysis, ML Surrogate (Scikit-learn) в реальном времени предсказывает пиковую температуру и остаточную влажность по паттерну IIoT-данных, SHAP объясняет вклад признаков. Прямое цифровое развитие Soft Sensor, который я строил вручную на «Реагенте» без доступа к подобным инструментам.
 
-**🧪 Elastomeric 1K PU | 🌐 [Live Demo: AI TDS Parser]** — *методология, in silico*
+**🧪 Elastomeric 1K PU | 🌐 [Live Demo: AI TDS Parser](https://czeberyak-elastomeric-1k-pu.streamlit.app/)** — *методология, in silico*
 Цифровой протокол полного цикла R&D для строительного полиуретанового герметика. Каскадный LLM-пайплайн для парсинга спецификаций конкурентов (TDS) и патентного FTO-анализа (реальные патенты Sika, Dow). Box-Behnken DOE сократил матрицу экспериментов с 27 до 15. Оптимизация целевых метрик через RSM на синтетических данных с физическим шумом — реальный лабораторный синтез по полученной матрице — следующий этап.
 
 **🧫 Epoxy Structural Adhesives (Portfolio Case #2) | 🌐 [Live Demo: RSM Tg/LSS Predictor](https://epoxy-structural-ep1.streamlit.app/)** — *методология, in silico*
